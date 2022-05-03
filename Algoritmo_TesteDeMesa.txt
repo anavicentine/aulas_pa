@@ -1,0 +1,14 @@
+Algoritmo ComissaoPecas
+	Entre com o preço da peça e atribua valor para preco_peca
+	Entre com a quatidade de peças vendidas e atribua valor para pecas_vendidas
+	Faça 5%  de (pecas_vendidas*preco_peca) e atribua o valor para total
+	Mostre total
+	
+FimAlgoritmo
+
+
+
+Teste de Mesa
+
+preco_peca	pecas_vendidas		total
+200		6			1260
