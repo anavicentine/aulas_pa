@@ -1,0 +1,15 @@
+Algoritmo "Distribuicao"
+
+	Entre com o valor do custo do carro de fábrica e atribua a custo
+	Faça 1.45*custo e atribua valor para imposto
+	Faça 1.28*imposto e atribua valor para distribuicao
+	 Mostre distribuicao
+
+
+FimAlgoritmo
+
+TESTE DE MESA
+
+custo		imposto		distribuidor	
+25.000		36.250		46.400					
+		
