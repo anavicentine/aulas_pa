@@ -1,0 +1,12 @@
+Algoritmo "conversao"
+
+	Faça minuto/60 e atribua valor para tempo
+	Faça hora+minuto e atribua valor para total
+	Mostre total
+
+FimAlgoritmo
+
+
+TESTE DE MESA
+hora		minuto		tempo		total
+4		23		0.38		4.38
